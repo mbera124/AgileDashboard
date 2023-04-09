@@ -1,10 +1,10 @@
-package com.react.reactspring;
+package com.smartdashboard;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ReactSpringApplicationTests {
+class SmartDashboardApplicationTests {
 
     @Test
     void contextLoads() {

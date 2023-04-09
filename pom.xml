@@ -8,11 +8,11 @@
         <version>2.6.6</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>com.react</groupId>
-    <artifactId>React-spring</artifactId>
+    <groupId>com.joe</groupId>
+    <artifactId>Smart-Dashboard</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>React-spring</name>
-    <description>React-spring</description>
+    <name>Smart-Dashboard</name>
+    <description>Smart-Dashboard</description>
     <properties>
         <java.version>1.8</java.version>
     </properties>

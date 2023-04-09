@@ -1,4 +1,4 @@
-package com.react.reactspring.config;
+package com.smartdashboard.config;
 
 import io.swagger.annotations.Api;
 import org.springframework.context.annotation.Bean;
