@@ -1,4 +1,4 @@
-package com.smartdashboard.modules.domain.Enumeration;
+package com.smartdashboard.module.domain.enumeration;
 
 public enum ModuleNames {
     Dashboard,
