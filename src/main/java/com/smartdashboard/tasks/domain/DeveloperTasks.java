@@ -13,6 +13,7 @@ public class DeveloperTasks {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
     private Long id;
+    @Enumerated(EnumType.STRING)
     private Developers developers;
     @ManyToOne
     @JoinColumn(foreignKey = @ForeignKey(name = "fk_developer_tasks_task_id"))

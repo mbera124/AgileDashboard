@@ -3,6 +3,7 @@ package com.smartdashboard.tasks.domain;
 import com.smartdashboard.sprints.domain.Sprints;
 import com.smartdashboard.tasks.data.TasksData;
 import com.smartdashboard.module.domain.enumeration.ModuleNames;
+import com.smartdashboard.tasks.domain.Enumeration.Developers;
 import com.smartdashboard.tasks.domain.Enumeration.Region;
 import com.smartdashboard.tasks.domain.Enumeration.TaskProgress;
 import lombok.Data;
