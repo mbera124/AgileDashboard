@@ -68,7 +68,7 @@ return tasks1;
     private void developerData(TasksData tasksData, Tasks tasks1) {
         if (tasksData.getDeveloperData().isEmpty()) {
             DeveloperTasks developerTasks = new DeveloperTasks();
-            developerTasks.setDevelopers(Developers.Beatrice);
+            developerTasks.setDevelopers(Developers.Kelvin);
             developerTasks.setTasks(tasks1);
             developerTasks.setRole(Roles.ProjectManager);
             developerTasksRepository.save(developerTasks);
