@@ -20,10 +20,6 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
 
-/**
- *
- * @author Kelsas
- */
 @Data
 @JsonInclude(Include.NON_NULL)
 public class ApiError {

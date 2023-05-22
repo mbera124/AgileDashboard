@@ -2,11 +2,6 @@ package com.smartdashboard.infrastracture.utility;
   
 import com.fasterxml.jackson.annotation.JsonInclude;
 
-
-/**
- *
- * @author Kelsas
- */   
 public class PageDetails {
 
     private Integer page;

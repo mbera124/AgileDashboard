@@ -3,10 +3,6 @@ package com.smartdashboard.infrastracture.utility;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;     
 
-/**
- *
- * @author Kelsas
- */  
 public class Pager<T> {
 
     private String code;
